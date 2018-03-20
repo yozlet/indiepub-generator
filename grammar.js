@@ -18,7 +18,10 @@ var grammar = {
     "Warm",
     "Leather",
     "Feather",
-    "Mustard"
+    "Mustard",
+    "Stretchy",
+    "Loose",
+    "Drapey",
     
   ],
 
@@ -38,6 +41,8 @@ var grammar = {
     "Succulent",
     "Cat",
     "Gecko",
+    "Stones",
+
 
   ],
 
