@@ -75,9 +75,26 @@ var grammar = {
 
   ],
 
+  unsuitableMaterial: [
+    "Marzipan",
+    "Crepe Paper",
+    "Balsa",
+    "Spelt",
+    "Lycra",
+    "Wax",
+    "Tortilla",
+    "Reconstituted Potato",
+    "Vaseline",
+    "Gouda",
+
+  ],
+
   origin: [
     "#clothesAdjective# #designElement#",
     "#favColour# #industrialInfrastructure#",
+    "#unsuitableMaterial# House",
+    "#favColour# #unsuitableMaterial# Hotel",
+
   ]    
 
 }
