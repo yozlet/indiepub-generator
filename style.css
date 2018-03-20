@@ -11,6 +11,7 @@ h1 {
 
 /*the output*/
 #output {
+  padding: 30px;
   font-size: 150%;
 }
 
