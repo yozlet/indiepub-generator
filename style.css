@@ -9,6 +9,16 @@ body {
 h1 {
 }
 
+/*the output*/
+#output {
+  font-size: 120%;
+}
+
+#details {
+  font-size: 80%;
+  font-style: italic;
+}
+
 /*text box*/
 #content {
 	width: 100%;
