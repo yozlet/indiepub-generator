@@ -14,6 +14,11 @@ var grammar = {
     "Denim",
     "Baggy",
     "Sparkly",
+    "Sleek",
+    "Warm",
+    "Leather",
+    "Feather",
+    "Mustard"
     
   ],
 
@@ -25,6 +30,14 @@ var grammar = {
     "Birch",
     "Rockface",
     "Seaglass",
+    "Vine",
+    "Rocks",
+    "Skull",
+    "Creek",
+    "Branch",
+    "Succulent",
+    "Cat",
+    "Gecko",
 
   ],
 
