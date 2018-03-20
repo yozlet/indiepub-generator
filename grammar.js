@@ -46,8 +46,35 @@ var grammar = {
 
   ],
 
-  origin : [
-    "#clothesAdjective# #designElement#"
+  favColour: [
+    "Cerulean",
+    "Black",
+    "Vantablack",
+    "Purple",
+    "Scarlet",
+    "Brick Red",
+    "Yellow",
+    "Navy Blue",
+    "Russet",
+
+  ],
+
+  industrialInfrastructure: [
+    "Airport",
+    "Freight Train",
+    "Power Plant",
+    "Warehouse",
+    "Grain Storage",
+    "Water Tower",
+    "Bus Depot",
+    "Factory",
+    "Storm Drain",
+
+  ],
+
+  origin: [
+    "#clothesAdjective# #designElement#",
+    "#favColour# #industrialInfrastructure#",
   ]    
 
 }
