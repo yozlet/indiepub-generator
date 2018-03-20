@@ -1,11 +1,13 @@
 /**
  * @author Yoz & co.
  * 
- * Most of these words and patterns come from replies to this thread:
+ * Most of these words and rules come from replies to this thread:
  * https://twitter.com/emilyhughes/status/975896813139124224
  */
 
 var grammar = {
+
+  // Words for rules
 
   clothesAdjective: [
     "Tight",
@@ -88,6 +90,8 @@ var grammar = {
     "Gouda",
 
   ],
+
+  // Rules that use/combine words
 
   origin: [
     "#clothesAdjective# #designElement#",
